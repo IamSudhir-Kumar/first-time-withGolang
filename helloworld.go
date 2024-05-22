@@ -26,5 +26,5 @@ func main() {
 
 	fmt.Printf("%T\n", c)
 
-	fmt.Printf("%\n", a)
+	fmt.Printf("%d\n", a)
 }
